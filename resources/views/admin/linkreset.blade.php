@@ -1,0 +1,1 @@
+Nhấn vào đây để lấy lại mật khẩu: <a href="{!! URL::to('resetPassword',$token->token) !!}">Reset password</a>
